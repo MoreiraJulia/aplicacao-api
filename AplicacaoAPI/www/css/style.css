@@ -1,0 +1,48 @@
+section{
+  margin: 10px;
+}
+.logo{
+  text-align: end;
+}
+.titulo{
+  margin-top: 50px;
+}
+.text{
+  max-width: 450px;
+  text-align: center;
+}
+.content-text {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+button {
+  border: none;
+  background: black;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
+.botao {
+  margin-top: 15px;
+  text-align: center;
+}
+.resposta {
+  background: #f2f2f2f2;
+  width: 500px;
+  border-radius: 25px;
+  height: 200px;
+  padding: 25px;
+}
+.retangulo {
+  margin-top: 35px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+p.mensagem {
+  margin-top: 30px;
+  justify-content: center;
+  display: flex;
+  justify-content: 450px;
+}
